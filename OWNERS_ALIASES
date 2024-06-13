@@ -157,12 +157,13 @@ aliases:
     - salaxander
   committee-security-response:
     - cjcullen
+    - cji
     - enj
     - joelsmith
-    - lukehinds
     - micahhausler
+    - ritazh
+    - SaranBalaji90
     - tabbysable
-    - tallclair
   committee-steering:
     - BenTheElder
     - cblecker
@@ -210,8 +211,6 @@ aliases:
     - craiglpeters
     - feiskyer
     - khenidak
-  provider-gcp:
-    - abgworrall
   provider-ibmcloud:
     - spzala
   provider-openstack:
